@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Amway Nutrilite Bodykey Weekly Tracker",
+  "description": "A weekly tracking application for the Amway Nutrilite Bodykey fat loss challenge. Users can log their weekly weight, and the app will calculate and display their BMI, progress over time with charts and a detailed log.",
+  "requestFramePermissions": []
+}
